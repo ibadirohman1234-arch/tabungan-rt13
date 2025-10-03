@@ -1,0 +1,71 @@
+body {
+    background: linear-gradient(135deg, #f5f9f5 0%, #e8f5e9 100%);
+    min-height: 100vh;
+}
+body{
+    background: linear-gradient(135deg, #f8fdf8 0%, #e6f4ea 100%);
+}
+
+
+.navbar-brand i {
+    margin-right: 8px;
+}
+
+.card {
+    border: none;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+.saldo-angka {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #2e7d32;
+}
+
+.card-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+
+.bg-icon-income {
+    background-color: rgba(76, 175, 80, 0.15);
+    color: #4caf50;
+}
+
+.bg-icon-expense {
+    background-color: rgba(244, 67, 54, 0.15);
+    color: #f44336;
+}
+
+.bg-icon-balance {
+    background-color: rgba(33, 150, 243, 0.15);
+    color: #2196f3;
+}
+
+.table th {
+    font-weight: 600;
+    color: #1b5e20;
+}
+
+.badge {
+    font-weight: 500;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    color: #666;
+    font-size: 0.9rem;
+}
