@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1759415333,
+        "tanggal": "2025-10-02",
+        "jenis": "pemasukan",
+        "nominal": 31630000,
+        "keterangan": "Saldo awal"
+    },
+    {
+        "id": 1759415404,
+        "tanggal": "2025-09-06",
+        "jenis": "pemasukan",
+        "nominal": 355000,
+        "keterangan": "Pendapatan"
+    },
+    {
+        "id": 1759415522,
+        "tanggal": "2025-09-27",
+        "jenis": "pemasukan",
+        "nominal": 495000,
+        "keterangan": "Iuran anggota zis + donatur"
+    },
+    {
+        "id": 1759415579,
+        "tanggal": "2025-09-27",
+        "jenis": "pemasukan",
+        "nominal": 150000,
+        "keterangan": "Janji bapak Rt"
+    }
+]
